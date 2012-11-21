@@ -15,7 +15,7 @@ ScottMath.java
 	It uses various methods for calculating common mathematical functions to about 6 decimal accuracy in most cases
 	It does not use the standard java math library at all
 
-Stack.java and StdDraw.java
-	These are libraries written by Robert Sedgewick and Kevin Wayne for Algorithms, 4th edition and released under the GNU General Public License
+StdDraw.java
+	This is a ibrarary written by Robert Sedgewick and Kevin Wayne for Algorithms, 4th edition and released under the GNU General Public License
 	You can find a link to the site here : http://algs4.cs.princeton.edu/home/
 	Just to be clear, I did not write or modify these libraries.
